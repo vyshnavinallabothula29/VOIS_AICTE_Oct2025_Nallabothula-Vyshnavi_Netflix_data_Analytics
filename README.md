@@ -1,0 +1,2 @@
+# VOIS_AICTE_Oct2025_Nallabothula-Vyshnavi_Netflix_data_Analytics
+Netflix project
